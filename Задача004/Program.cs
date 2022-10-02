@@ -15,7 +15,7 @@ int Number3 = int.Parse(Console.ReadLine());
 
 if (Number1 > Number2)
 {
-    if (Number1 > Number2)
+    if (Number1 > Number3)
     {
         Console.WriteLine("Максимальное число: " + Number1);
     }
