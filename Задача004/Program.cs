@@ -5,32 +5,32 @@
 //22 3 9 -> 22
 
 Console.WriteLine("Введите первое число: ");
-int firstNumber = int.Parse(Console.ReadLine());
+int Number1 = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите второе число: ");
-int secondNumber = int.Parse(Console.ReadLine());
+int Number2 = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите третье число: ");
-int thirdNumber = int.Parse(Console.ReadLine());
+int Number3 = int.Parse(Console.ReadLine());
 
-if (firstNumber > secondNumber)
+if (Number1 > Number2)
 {
-    if (firstNumber > thirdNumber)
+    if (Number1 > Number2)
     {
-        Console.WriteLine("Максимальное число: " + firstNumber);
+        Console.WriteLine("Максимальное число: " + Number1);
     }
     else
     {
-        Console.WriteLine("Максимальное число: " + thirdNumber);
+        Console.WriteLine("Максимальное число: " + Number3);
     }
 }
 
-else if (secondNumber > thirdNumber)
+else if (Number2 > Number3)
 {
-    Console.WriteLine("Максимальное число: " + secondNumber);
+    Console.WriteLine("Максимальное число: " + Number2);
 }
 else
 {
-    Console.WriteLine("Максимальное число: " + thirdNumber);
+    Console.WriteLine("Максимальное число: " + Number3);
 }
 
