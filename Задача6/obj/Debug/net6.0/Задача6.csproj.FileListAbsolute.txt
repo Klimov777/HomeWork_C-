@@ -1,0 +1,15 @@
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.csproj.AssemblyReference.cache
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.AssemblyInfoInputs.cache
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.AssemblyInfo.cs
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.csproj.CoreCompileInputs.cache
+C:\Users\klimo\Desktop\Homework C#\Задача6\bin\Debug\net6.0\Задача6.exe
+C:\Users\klimo\Desktop\Homework C#\Задача6\bin\Debug\net6.0\Задача6.deps.json
+C:\Users\klimo\Desktop\Homework C#\Задача6\bin\Debug\net6.0\Задача6.runtimeconfig.json
+C:\Users\klimo\Desktop\Homework C#\Задача6\bin\Debug\net6.0\Задача6.dll
+C:\Users\klimo\Desktop\Homework C#\Задача6\bin\Debug\net6.0\Задача6.pdb
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.dll
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\refint\Задача6.dll
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.pdb
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\Задача6.genruntimeconfig.cache
+C:\Users\klimo\Desktop\Homework C#\Задача6\obj\Debug\net6.0\ref\Задача6.dll
